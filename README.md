@@ -61,3 +61,6 @@ Queremos crecer cómo comunidad y que cada uno de nuestros miembros pueda crecer
         R./ Hasta el día de hoy (martes 30 de enero de 2018) 
         UruIT  ha estado enviandonos e-mails expresandonos que quieren ayudar a la comunidad.
         La empresa OSGroup expresó a principios de enero de 2018 que nos puede patrocinar snacks para las charlas.
+
+
+        # Revisa el contenido de nuestros [coding bootcamps](https://github.com/node-co/acerca/tree/feature/contenido-bootcamp-piloto/bootcamps)
