@@ -10,9 +10,9 @@ En la primera parte aprenderemos lo básico de Git y GitHub con el curso git-it 
 
 - Si deseas descargar la versión en español para **MacOS** haz click [aquí](https://mega.nz/#!4bIQXSIK!jCM6nS8x00F6_GlZ52LWiWrWMsKLxB2B65tPXWW7fg4) 
 
-- Si deseas descargar la versión en español para linux haz click [aquí](https://mega.nz/#!JKpy3Tgb!6kuiPzdUU7sX_DDyNFYff5TUdHWz7bYF73V-koxU6EM) 
+- Si deseas descargar la versión en español para **linux** haz click [aquí](https://mega.nz/#!JKpy3Tgb!6kuiPzdUU7sX_DDyNFYff5TUdHWz7bYF73V-koxU6EM) 
 
-- Si deseas descargar la versión en español para windows haz click [aquí](https://mega.nz/#!oPIHnCbZ!su_I-vRlZ9PorCsX8Ocn3BpCjNLEQ4iH7pDgXPKn6Gg) 
+- Si deseas descargar la versión en español para **windows** haz click [aquí](https://mega.nz/#!oPIHnCbZ!su_I-vRlZ9PorCsX8Ocn3BpCjNLEQ4iH7pDgXPKn6Gg) 
 
 #### Los temas que trataremos en git-it son:
 
