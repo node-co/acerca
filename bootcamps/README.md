@@ -25,4 +25,4 @@ En los bootcamps de 2018 sólo llegarás hasta un nivel  intermedio de conocimie
 El bootcamp está hecho por y para la comunidad, no tiene ningún costo monetario, sin embargo si te vamos a solicitar que ayudes a más personas a adquirir este conocimiento, es decir, que en algún momento nos ayudes siendo instructor o mentor de personas con un nivel de conocimientos menor al tuyo.
 
 
-# [Contenido Bootcamp píloto febrero-marzo 2018](https://github.com)
+# [Contenido Bootcamp píloto febrero-marzo 2018](https://github.com/node-co/acerca/tree/feature/contenido-bootcamp-piloto/bootcamps/piloto-2018)
