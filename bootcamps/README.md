@@ -16,8 +16,13 @@ El primer bootcamp que vamos a dictar será entre febrero y marzo de 2018, este 
 
 
 ## ¿Hasta qué nivel de conocimiento de programación voy a llegar haciendo este bootcamp ?
+
 En los bootcamps de 2018 sólo llegarás hasta un nivel  intermedio de conocimientos. No veremos temas avanzados, aunque esperamos que en el 2018 podamos crear workshops con temas avanzados (TBD).
 
 
-## Tiene algún costo ?
+## ¿Tiene algún costo ?
+
 El bootcamp está hecho por y para la comunidad, no tiene ningún costo monetario, sin embargo si te vamos a solicitar que ayudes a más personas a adquirir este conocimiento, es decir, que en algún momento nos ayudes siendo instructor o mentor de personas con un nivel de conocimientos menor al tuyo.
+
+
+# [Contenido Bootcamp píloto febrero-marzo 2018](https://github.com)
