@@ -80,4 +80,38 @@ Para esta sesión haremos el taller completo de nodeschool learnyounode y en est
 
 12. PRIMERA API JSON EN NODE
 
+#### how-to-npm
 
+Vamos a aprender a usar el Node Package Manager (npm)
+
+- Instalación de NodeJS con nvm y npm
+
+1. Creación del package.json
+
+2. Crear cuenta
+
+3. Empezar un proyecto
+
+4. Instalación de paquetes
+
+5. Listado de dependencias
+
+6. npm test
+
+7. Ordenar el package.json
+
+8. Publicar paquetes
+
+9. Manejo de versiones
+
+10. Re-publicar paquetes
+
+11. Dist tags
+
+12. Remover Dist tags
+
+13. Detectar versiones viejas
+
+14. Actualiza los paquetes
+
+15. Remover paquetes
