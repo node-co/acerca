@@ -115,3 +115,61 @@ Vamos a aprender a usar el Node Package Manager (npm)
 14. Actualiza los paquetes
 
 15. Remover paquetes
+
+
+### Express JS 
+
+#### Básico - nodeschool.io expressworks
+
+1. Hello World! Primer server en express
+
+2. Static. Sirve contenido estático
+
+3. Usa Pug, para renderizar hmtl
+
+4. Procesar formularios
+
+5. Usa stylus con express
+
+6. Usar parámetros de url
+
+7. Procesar query strings
+
+8. Responder con JSON
+
+
+#### Básico a intermedio
+
+1. ¿Cómo estructurar un proyecto con Express?
+
+2. ¿Cómo cónfigurar express?
+
+3. Creación de rutas
+
+4. Creación de endpoints
+
+5. Estructura para una Api rest
+
+6. Devolución de datos dummies
+
+7. Conectar Node y Express a MongoDB
+
+8. Mongoose
+
+9. Patrón mvc
+
+10. ¿Cómo crear schemas y modelos con mongoose?
+
+11. ¿Cómo crear Controladores en Express?
+
+12. Crear un CRUDI
+
+13. Documentar la api
+
+14. Mi primera Api funcionando
+
+15. Proyecto Api
+
+
+
+
