@@ -56,20 +56,28 @@ Al finalizar el taller de git-it haremos una actividad con los participantes par
 
 Para esta sesión haremos el taller completo de nodeschool learnyounode y en este veremos los siguientes temas:
 
-1. Tu primer ¡Hola mundo! en node (Escribe un programa que imprima el texto "HELLO WORLD" en consola)
+1. ¡Hola mundo! en node
 
-2. Pasos de bebé (Escribe un programa que reciba uno o más números como argumentos de la  
-  consola e imprima la suma de dichos números a consola(stdout).)
+2. Pasos de bebé, sumar números
 
-3. Mi primer I/O (Escribe un programa que, usando una llamada síncrona al sistema de archivos, lea un archivo recibido por argumento e imprima a consola la cantidad de saltos de línea ('\n') que contiene. Similar a ejecutar cat file | wc -l.  )
+3. Mi primer I/O Leer archivos síncrono
 
-4. MI PRIMER I/O ASINCRÓNICO! (Escribe un programa que use operación de sistema de archivos asíncrona para leer un archivo e imprimir en consola el número de saltos de línea  
-  ('\n') que contiene. Similar a  ejecutar cat file | wc -l.)
+4. MI PRIMER I/O ASINCRÓNICO! leer archivos asíncrono
 
 5. HAZLO MODULAR (aprenderemos a usar el sistema de módulos de nodeJS)
 
-6. CLIENTE HTTP (Escribe un programa que reciba como argumento una URL y realice una petición HTTP GET a la misma.)
+6. CLIENTE HTTP (realizar peticiones HTTP desde node.)
 
 7. COLECCIÓN HTTP (Escribe un programa que guarde una colección de datos recibidos por http).
 
-8.
+8. MALABARES CON ASÍNCRONISMO (manipular datos de varios llamados asíncronos)
+
+9. CREAR SERVIDOR HTTP QUE RETORNE EL TIEMPO
+
+10. CREAR SERVIDOR QUE MUESTRE EL CONTENIDO DE UN ARCHIVO
+
+11. SERVIDOR QUE RECIBA DATOS POR MEDIO DE POST
+
+12. PRIMERA API JSON EN NODE
+
+
