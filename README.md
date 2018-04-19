@@ -1,3 +1,6 @@
+# Código de conducta
+Nos acoplamos a los manifiestos de [http://es.confcodeofconduct.com/](http://es.confcodeofconduct.com/)
+
 # Acerca de la comunidad
 
 ## Quiénes somos?
